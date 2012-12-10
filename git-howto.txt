@@ -1,0 +1,10 @@
+# Membuat repository baru
+
+1. Membuat folder kosong
+2. inisialisasi repository git
+	gt ini
+3. Membuat Ignore file
+
+4. Setup username dan email
+
+5. 
